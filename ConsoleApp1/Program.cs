@@ -13,6 +13,8 @@ namespace ConsoleApp1
 
             Console.ReadLine();
             Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
