@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            bool a = false;
+            Console.ReadLine();
+            Console.ReadLine();
             Console.ReadLine();
             Console.ReadLine();
         }
